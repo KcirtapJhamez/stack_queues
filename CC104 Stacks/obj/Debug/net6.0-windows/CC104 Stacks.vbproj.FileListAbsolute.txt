@@ -1,0 +1,18 @@
+C:\Users\muyan\OneDrive\Desktop\VB Project\CC104 Stacks\CC104 Stacks\obj\Debug\net6.0-windows\CC104 Stacks.vbproj.AssemblyReference.cache
+C:\Users\muyan\OneDrive\Desktop\VB Project\CC104 Stacks\CC104 Stacks\obj\Debug\net6.0-windows\CC104_Stacks.Form1.resources
+C:\Users\muyan\OneDrive\Desktop\VB Project\CC104 Stacks\CC104 Stacks\obj\Debug\net6.0-windows\CC104 Stacks.vbproj.GenerateResource.cache
+C:\Users\muyan\OneDrive\Desktop\VB Project\CC104 Stacks\CC104 Stacks\obj\Debug\net6.0-windows\CC104 Stacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muyan\OneDrive\Desktop\VB Project\CC104 Stacks\CC104 Stacks\obj\Debug\net6.0-windows\CC104 Stacks.AssemblyInfoInputs.cache
+C:\Users\muyan\OneDrive\Desktop\VB Project\CC104 Stacks\CC104 Stacks\obj\Debug\net6.0-windows\CC104 Stacks.AssemblyInfo.vb
+C:\Users\muyan\OneDrive\Desktop\VB Project\CC104 Stacks\CC104 Stacks\obj\Debug\net6.0-windows\CC104 Stacks.vbproj.CoreCompileInputs.cache
+C:\Users\muyan\OneDrive\Desktop\VB Project\CC104 Stacks\CC104 Stacks\bin\Debug\net6.0-windows\CC104 Stacks.exe
+C:\Users\muyan\OneDrive\Desktop\VB Project\CC104 Stacks\CC104 Stacks\bin\Debug\net6.0-windows\CC104 Stacks.deps.json
+C:\Users\muyan\OneDrive\Desktop\VB Project\CC104 Stacks\CC104 Stacks\bin\Debug\net6.0-windows\CC104 Stacks.runtimeconfig.json
+C:\Users\muyan\OneDrive\Desktop\VB Project\CC104 Stacks\CC104 Stacks\bin\Debug\net6.0-windows\CC104 Stacks.dll
+C:\Users\muyan\OneDrive\Desktop\VB Project\CC104 Stacks\CC104 Stacks\bin\Debug\net6.0-windows\CC104 Stacks.pdb
+C:\Users\muyan\OneDrive\Desktop\VB Project\CC104 Stacks\CC104 Stacks\obj\Debug\net6.0-windows\CC104 Stacks.dll
+C:\Users\muyan\OneDrive\Desktop\VB Project\CC104 Stacks\CC104 Stacks\obj\Debug\net6.0-windows\refint\CC104 Stacks.dll
+C:\Users\muyan\OneDrive\Desktop\VB Project\CC104 Stacks\CC104 Stacks\obj\Debug\net6.0-windows\CC104 Stacks.pdb
+C:\Users\muyan\OneDrive\Desktop\VB Project\CC104 Stacks\CC104 Stacks\obj\Debug\net6.0-windows\CC104 Stacks.genruntimeconfig.cache
+C:\Users\muyan\OneDrive\Desktop\VB Project\CC104 Stacks\CC104 Stacks\obj\Debug\net6.0-windows\ref\CC104 Stacks.dll
+C:\Users\muyan\OneDrive\Desktop\VB Project\CC104 Stacks\CC104 Stacks\obj\Debug\net6.0-windows\CC104_Stacks.Resources.resources
